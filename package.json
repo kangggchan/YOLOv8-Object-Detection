@@ -1,0 +1,24 @@
+{
+  "name": "yolov8-object-detection",
+  "version": "1.0.0",
+  "description": "Advanced Web Programming course Assignment#1",
+  "main": "proxy-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangggchan/YOLOv8-Object-Detection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangggchan/YOLOv8-Object-Detection/issues"
+  },
+  "homepage": "https://github.com/kangggchan/YOLOv8-Object-Detection#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "http-proxy-middleware": "^3.0.5"
+  }
+}
